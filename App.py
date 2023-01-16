@@ -29,8 +29,8 @@ class Aplicação:
         botaoapagar.place(relx=0.77, rely=0.6, relwidth=0.2, relheight=0.1)
     def textos(self):
 
-        NomedoArquivo = tkinter.Label(self.frame1, text='Nome do Arquivo', font=('Arial', 10), background='white')
-        NomedoArquivo.place(relx=0.1, rely=0.2)
+        diretoriodearquivos = tkinter.Label(self.frame1, text='Nome do diretorio', font=('Arial', 10), background='white')
+        diretoriodearquivos.place(relx=0.1, rely=0.2)
         Nomeparaapagar = tkinter.Label(self.frame1, text="Em espera", font=('Arial', 10), background='white')
         Nomeparaapagar.place(relx=0.1, rely=0.3)
 
