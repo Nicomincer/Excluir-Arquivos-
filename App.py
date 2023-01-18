@@ -1,6 +1,6 @@
 import tkinter 
 import os 
-from tkinter import ttk, END
+from tkinter import ttk
 
 
 class Aplicação:
