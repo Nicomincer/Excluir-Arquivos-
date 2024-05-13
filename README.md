@@ -9,4 +9,4 @@ Para excluir um arquivo, primeiro, coloque o diretório dele em Nome do diretori
 
 **OBS** 
 
-Ele irá excluir todos os arquivos que tiverem o mesmo valor em *Espera*. 
+Ele irá excluir todos os arquivos que tiverem o mesmo valor em *Espera*. Portanto, cuidado!
